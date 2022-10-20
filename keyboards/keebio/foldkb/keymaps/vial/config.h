@@ -20,7 +20,7 @@
 #define NO_ACTION_ONESHOT
 
 // Space savers: tapping keys (mod tap, layer tap, etc)
-#define NO_ACTION_TAPPING
+// #define NO_ACTION_TAPPING
 
 // Space savers: tranlates matrix positions into notes
 #define NO_MUSIC_MODE
